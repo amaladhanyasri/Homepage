@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="home_title_size">32dp</dimen>
+
+    <dimen name="item_title_textsize">25dp</dimen>
+    <dimen name="item_desc_textsize">24dp</dimen>
+</resources>
